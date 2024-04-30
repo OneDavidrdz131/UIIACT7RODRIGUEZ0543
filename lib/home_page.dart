@@ -24,7 +24,7 @@ class HomePage extends StatelessWidget {
                   margin: const EdgeInsets.symmetric(horizontal: 20),
                   decoration: BoxDecoration(
                     borderRadius: const BorderRadius.all(Radius.circular(10)),
-                    color: Color(0xffc19f07),
+                    color: Color(0xff076dc1),
                   ),
                   child: const TabBar(
                     indicatorSize: TabBarIndicatorSize.tab,
